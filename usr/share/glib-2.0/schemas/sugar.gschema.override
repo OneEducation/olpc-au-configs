@@ -12,6 +12,9 @@ backend='microformat.MicroformatUpdater'
 microformat-update-url='http://system.one-education.org/au2a/activities/arm/'
 auto-update-frequency=1
 
+[org.sugarlabs.network]
+adhoc-autoconnect=false
+
 [org.sugarlabs.network.gsm]
 country='au'
 provider='Telstra'
